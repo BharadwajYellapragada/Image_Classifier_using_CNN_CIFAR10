@@ -34,4 +34,5 @@ There are 2 functions i have implemented for this phase.
 1. A function that takes the model history and summarized it
 2. A function that calculates accuracy
 
+# Results
 This model took 777.10 seconds to train in COLAB GPU and reached a accuracy of 74.22%
