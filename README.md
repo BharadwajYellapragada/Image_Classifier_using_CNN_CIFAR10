@@ -41,4 +41,4 @@ This model took 777.10 seconds to train in COLAB GPU and reached a accuracy of 7
 The implementation done here is priliminary. In further process, i'll be implementing image classification using pre build models like VGG16, YOLO, Mobile Nets etc.
 
 # Next Push
-## VGG16
+**VGG16**
